@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQQQi0vT9h47gqwVNi7J02uNzPiIDSh0RKXSmmZ8LY4Nj6Pf2zhX4rEnlUHQvUWQDKw78t/CYlk+ChZXYQDPpA==",
+  "success": true,
+  "projectFilePath": "D:\\cscode\\ProjectTracer\\ProjectTracer\\ProjectTracer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luyang\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\luyang\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
